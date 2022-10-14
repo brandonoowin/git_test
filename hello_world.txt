@@ -8,3 +8,5 @@ Eventualy...
 best of luck lol 
 10/14/2022
 Trial #3 failed. Will try again lol
+After a couple of tries I was able to do it correctly. 
+you have to #commit -m 
